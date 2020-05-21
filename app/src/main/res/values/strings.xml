@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">TestApp</string>
+    <string name="app_name">Testing Phase App</string>
+    <string name="main_activity_text">Testing Phase App</string>
 </resources>
