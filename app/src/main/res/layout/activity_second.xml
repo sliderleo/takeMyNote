@@ -5,13 +5,13 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="#000"
-    tools:context=".MainActivity">
+    tools:context=".second">
 
     <TextView
         android:id="@+id/textView"
         android:layout_width="263dp"
         android:layout_height="74dp"
-        android:text="@string/main_activity_text"
+        android:text="@string/second_text"
         android:textColor="#ffff"
         android:textSize="30sp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -22,7 +22,7 @@
 
     <com.github.ybq.android.spinkit.SpinKitView
         android:id="@+id/spin_kit"
-        style="@style/SpinKitView.Large.CubeGrid"
+        style="@style/SpinKitView.Large.Pulse"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
@@ -35,8 +35,8 @@
     <androidx.appcompat.widget.AppCompatButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Next"
-        android:id="@+id/next_button"
+        android:text="Back"
+        android:id="@+id/back_button"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
