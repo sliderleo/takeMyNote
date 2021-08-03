@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">NoteMyNotes</string>
+    <string name="button_name">Click me</string>
 </resources>
