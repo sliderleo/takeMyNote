@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">NoteMyNotes</string>
+    <string name="app_name">Note My Notes</string>
     <string name="button_name">Click me</string>
+    <string name="home_title">Home</string>
 </resources>
