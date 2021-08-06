@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608410236357",
+    "project_id": "takemynotes-3c112",
+    "storage_bucket": "takemynotes-3c112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608410236357:android:88139bb9f42149035047ac",
+        "android_client_info": {
+          "package_name": "com.example.notemynotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608410236357-gsqh6i5smc70ojbq3nlug72id66qn04a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHiOVmRiBzI8yLqR7mg2OfgGPH5wc_ErU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608410236357-gsqh6i5smc70ojbq3nlug72id66qn04a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
